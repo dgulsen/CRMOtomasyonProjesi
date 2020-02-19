@@ -1,0 +1,156 @@
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.DataBaseLogicLayer\obj\Debug\OyunCRM.DataBaseLogicLayer.pdb

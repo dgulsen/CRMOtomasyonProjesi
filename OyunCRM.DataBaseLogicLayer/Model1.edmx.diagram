@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="524c33b38ea74ecfa56a626e4e200e82" Name="Diagram1">
+        <EntityTypeShape EntityType="OyunCRMDBModel.Bankalar" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Departmanlar" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Firmalar" Width="1.5" PointX="3" PointY="46.375" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Gelirler" Width="1.5" PointX="14" PointY="12" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.GelirTipleri" Width="1.5" PointX="11.75" PointY="12.25" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Giderler" Width="1.5" PointX="13" PointY="8" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.GiderTipleri" Width="1.5" PointX="10.75" PointY="8.25" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.ilceler" Width="1.5" PointX="13" PointY="0.875" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.iller" Width="1.5" PointX="10.75" PointY="1" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.indirimler" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.indirimTurleri" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriFirmalari" Width="1.5" PointX="5.25" PointY="46.875" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriGorusmeleri" Width="1.5" PointX="5.25" PointY="35.125" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriiletisimSekli" Width="1.5" PointX="3" PointY="59.5" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Musteriler" Width="1.5" PointX="3.75" PointY="7.625" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriOdemeleri" Width="1.5" PointX="6" PointY="8.625" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriSiparisDetay" Width="1.5" PointX="8.25" PointY="29.625" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriSiparisleri" Width="1.5" PointX="3" PointY="29.625" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriTalepDetaylar" Width="1.5" PointX="8.25" PointY="21.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriTalepleri" Width="1.5" PointX="6" PointY="21.625" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.MusteriToplantilari" Width="1.5" PointX="6" PointY="29.625" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.OdemeSekli" Width="1.5" PointX="3.75" PointY="1.125" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.PersonelGirisCikislar" Width="1.5" PointX="3" PointY="56.125" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.PersonelGunlukTakip" Width="1.5" PointX="3" PointY="19.5" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Personelizinleri" Width="1.5" PointX="3" PointY="43.25" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Personeller" Width="1.5" PointX="0.75" PointY="24" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.PersonellerinCalistigiDepartmanlar" Width="1.5" PointX="3" PointY="53" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.PersonelMesaileri" Width="1.5" PointX="3" PointY="50.25" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.PersonelPrimler" Width="1.5" PointX="3" PointY="13.5" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.PersonelToplantilari" Width="1.5" PointX="3" PointY="25.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.PesonelMaasBilgiler" Width="1.5" PointX="3" PointY="36.5" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Resimler" Width="1.5" PointX="8.25" PointY="8.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="12.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Taksitler" Width="1.5" PointX="13.75" PointY="3.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Tedarikciler" Width="1.5" PointX="9" PointY="12.125" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.TedarikEdilenUrunler" Width="1.5" PointX="11.25" PointY="3.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.ToplantiTanimi" Width="1.5" PointX="0.75" PointY="21" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Ulkeler" Width="1.5" PointX="15.75" PointY="0.75" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.UrunKategorileri" Width="1.5" PointX="3.75" PointY="4.125" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Urunler" Width="1.5" PointX="6" PointY="3.375" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.UrunStoklari" Width="1.5" PointX="8.25" PointY="2.5" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Uyeler" Width="1.5" PointX="6" PointY="25.625" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Yetkiler" Width="1.5" PointX="3.75" PointY="23.25" />
+        <EntityTypeShape EntityType="OyunCRMDBModel.Yonetim" Width="1.5" PointX="3" PointY="16.25" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Firmalar_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriFirmalari_Firmalar" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriGorusmeleri_Firmalar" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Gelirler_GelirTipleri" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Giderler_GiderTipleri" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_ilceler_iller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriFirmalari_Musteriler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriGorusmeleri_MusteriiletisimSekli" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriGorusmeleri_Musteriler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriGorusmeleri_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriiletisimSekli_Musteriler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriOdemeleri_Musteriler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriSiparisleri_Musteriler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriTalepleri_Musteriler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriToplantilari_Musteriler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriOdemeleri_OdemeSekli" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriSiparisDetay_MusteriSiparisleri" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriSiparisDetay_Urunler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriSiparisleri_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriTalepDetaylar_MusteriTalepleri" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriTalepDetaylar_Urunler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriTalepleri_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriToplantilari_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_MusteriToplantilari_ToplantiTanimi" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PersonelGirisCikislar_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PersonelGunlukTakip_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Personelizinleri_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PersonellerinCalistigiDepartmanlar_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PersonelMesaileri_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PersonelPrimler_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PersonelToplantilari_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PesonelMaasBilgiler_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Uyeler_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Yonetim_Personeller" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_PersonelToplantilari_ToplantiTanimi" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Resimler_Urunler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_TedarikEdilenUrunler_Tedarikciler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_TedarikEdilenUrunler_Urunler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Urunler_UrunKategorileri" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_UrunStoklari_Urunler" />
+        <AssociationConnector Association="OyunCRMDBModel.FK_Uyeler_Yetkiler" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

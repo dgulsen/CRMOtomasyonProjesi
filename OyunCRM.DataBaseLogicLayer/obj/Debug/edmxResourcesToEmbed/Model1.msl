@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OyunCRMDBModelStoreContainer" CdmEntityContainer="OyunCRMDBEntities">
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="OyunCRMDBModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="OyunCRMDBModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="OyunCRMDBModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="OyunCRMDBModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OyunCRMDBModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="OyunCRMDBModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OyunCRMDBModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_PersonelListesi" FunctionName="OyunCRMDBModel.Store.sp_PersonelListesi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OyunCRMDBModel.sp_PersonelListesi_Result">
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DogumYeri" ColumnName="DogumYeri" />
+          <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+          <ScalarProperty Name="MedeniHali" ColumnName="MedeniHali" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="Resim" ColumnName="Resim" />
+          <ScalarProperty Name="DerpartmanAdi" ColumnName="DerpartmanAdi" />
+          <ScalarProperty Name="BaslamaTarihi" ColumnName="BaslamaTarihi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="OyunCRMDBModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="OyunCRMDBModel.Store.sp_upgraddiagrams" />
+    <EntitySetMapping Name="Bankalar">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Bankalar">
+        <MappingFragment StoreEntitySet="Bankalar">
+          <ScalarProperty Name="BankaAdi" ColumnName="BankaAdi" />
+          <ScalarProperty Name="BankalarID" ColumnName="BankalarID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departmanlar">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Departmanlar">
+        <MappingFragment StoreEntitySet="Departmanlar">
+          <ScalarProperty Name="DepartmanAdi" ColumnName="DepartmanAdi" />
+          <ScalarProperty Name="DepartmanlarID" ColumnName="DepartmanlarID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Firmalar">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Firmalar">
+        <MappingFragment StoreEntitySet="Firmalar">
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="FirmaKayitTarihi" ColumnName="FirmaKayitTarihi" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="FirmaDurumu" ColumnName="FirmaDurumu" />
+          <ScalarProperty Name="FirmaAdi" ColumnName="FirmaAdi" />
+          <ScalarProperty Name="FirmalarID" ColumnName="FirmalarID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gelirler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Gelirler">
+        <MappingFragment StoreEntitySet="Gelirler">
+          <ScalarProperty Name="GelirislemSaati" ColumnName="GelirislemSaati" />
+          <ScalarProperty Name="UrunSatisFiyati" ColumnName="UrunSatisFiyati" />
+          <ScalarProperty Name="GelirAciklama" ColumnName="GelirAciklama" />
+          <ScalarProperty Name="GelirMiktari" ColumnName="GelirMiktari" />
+          <ScalarProperty Name="GelirTipID" ColumnName="GelirTipID" />
+          <ScalarProperty Name="GelirlerID" ColumnName="GelirlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GelirTipleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.GelirTipleri">
+        <MappingFragment StoreEntitySet="GelirTipleri">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="GelirTipAdi" ColumnName="GelirTipAdi" />
+          <ScalarProperty Name="GelirTipleriID" ColumnName="GelirTipleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Giderler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Giderler">
+        <MappingFragment StoreEntitySet="Giderler">
+          <ScalarProperty Name="GiderislemSaati" ColumnName="GiderislemSaati" />
+          <ScalarProperty Name="UrunalisFiyati" ColumnName="UrunalisFiyati" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="GiderMiktar" ColumnName="GiderMiktar" />
+          <ScalarProperty Name="GiderTipID" ColumnName="GiderTipID" />
+          <ScalarProperty Name="GiderlerID" ColumnName="GiderlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GiderTipleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.GiderTipleri">
+        <MappingFragment StoreEntitySet="GiderTipleri">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="GiderAdi" ColumnName="GiderAdi" />
+          <ScalarProperty Name="GiderTipleriID" ColumnName="GiderTipleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ilceler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.ilceler">
+        <MappingFragment StoreEntitySet="ilceler">
+          <ScalarProperty Name="PlakaKodu" ColumnName="PlakaKodu" />
+          <ScalarProperty Name="ilceAdi" ColumnName="ilceAdi" />
+          <ScalarProperty Name="ilcelerID" ColumnName="ilcelerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="iller">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.iller">
+        <MappingFragment StoreEntitySet="iller">
+          <ScalarProperty Name="ilAdi" ColumnName="ilAdi" />
+          <ScalarProperty Name="PlakaKodu" ColumnName="PlakaKodu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="indirimler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.indirimler">
+        <MappingFragment StoreEntitySet="indirimler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Durumu" ColumnName="Durumu" />
+          <ScalarProperty Name="indirimMiktari" ColumnName="indirimMiktari" />
+          <ScalarProperty Name="BitisTarihi" ColumnName="BitisTarihi" />
+          <ScalarProperty Name="BaslamaTarihi" ColumnName="BaslamaTarihi" />
+          <ScalarProperty Name="indirimFiyatSekli" ColumnName="indirimFiyatSekli" />
+          <ScalarProperty Name="indirimTurAdi" ColumnName="indirimTurAdi" />
+          <ScalarProperty Name="indirimlerID" ColumnName="indirimlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="indirimTurleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.indirimTurleri">
+        <MappingFragment StoreEntitySet="indirimTurleri">
+          <ScalarProperty Name="indirimTurAdi" ColumnName="indirimTurAdi" />
+          <ScalarProperty Name="indirimTurleriID" ColumnName="indirimTurleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriFirmalari">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriFirmalari">
+        <MappingFragment StoreEntitySet="MusteriFirmalari">
+          <ScalarProperty Name="KayitTarihi" ColumnName="KayitTarihi" />
+          <ScalarProperty Name="FirmaID" ColumnName="FirmaID" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="MusteriFirmalariID" ColumnName="MusteriFirmalariID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriGorusmeleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriGorusmeleri">
+        <MappingFragment StoreEntitySet="MusteriGorusmeleri">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="GorusmeTarihi" ColumnName="GorusmeTarihi" />
+          <ScalarProperty Name="MusteriiletisimSekliID" ColumnName="MusteriiletisimSekliID" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="FirmaID" ColumnName="FirmaID" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="MusteriGorusmeleriID" ColumnName="MusteriGorusmeleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriiletisimSekli">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriiletisimSekli">
+        <MappingFragment StoreEntitySet="MusteriiletisimSekli">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="MusteriiletisimSekilleriID" ColumnName="MusteriiletisimSekilleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Musteriler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Musteriler">
+        <MappingFragment StoreEntitySet="Musteriler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Durumu" ColumnName="Durumu" />
+          <ScalarProperty Name="MusteriOlmaTarihi" ColumnName="MusteriOlmaTarihi" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="PostaKodu" ColumnName="PostaKodu" />
+          <ScalarProperty Name="Sehir" ColumnName="Sehir" />
+          <ScalarProperty Name="Ulkesi" ColumnName="Ulkesi" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="MusteriSoyadi" ColumnName="MusteriSoyadi" />
+          <ScalarProperty Name="MusteriAdi" ColumnName="MusteriAdi" />
+          <ScalarProperty Name="MusterilerID" ColumnName="MusterilerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriOdemeleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriOdemeleri">
+        <MappingFragment StoreEntitySet="MusteriOdemeleri">
+          <ScalarProperty Name="BankaAdi" ColumnName="BankaAdi" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="OdenecekMiktar" ColumnName="OdenecekMiktar" />
+          <ScalarProperty Name="OdemeTarihi" ColumnName="OdemeTarihi" />
+          <ScalarProperty Name="OdemeSekliID" ColumnName="OdemeSekliID" />
+          <ScalarProperty Name="MusteriOdemeleriID" ColumnName="MusteriOdemeleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriSiparisDetay">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriSiparisDetay">
+        <MappingFragment StoreEntitySet="MusteriSiparisDetay">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="IndirimOrani" ColumnName="IndirimOrani" />
+          <ScalarProperty Name="Miktar" ColumnName="Miktar" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="MusteriSiparisID" ColumnName="MusteriSiparisID" />
+          <ScalarProperty Name="MusteriSiparisDetaylariID" ColumnName="MusteriSiparisDetaylariID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriSiparisleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriSiparisleri">
+        <MappingFragment StoreEntitySet="MusteriSiparisleri">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="SiparisTeslimTarihi" ColumnName="SiparisTeslimTarihi" />
+          <ScalarProperty Name="SiparisVerilisTarihi" ColumnName="SiparisVerilisTarihi" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="MusteriSiparisleriID" ColumnName="MusteriSiparisleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriTalepDetaylar">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriTalepDetaylar">
+        <MappingFragment StoreEntitySet="MusteriTalepDetaylar">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Miktar" ColumnName="Miktar" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="MusteriTalepID" ColumnName="MusteriTalepID" />
+          <ScalarProperty Name="MusteriTalepDetaylarID" ColumnName="MusteriTalepDetaylarID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriTalepleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriTalepleri">
+        <MappingFragment StoreEntitySet="MusteriTalepleri">
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="TalepTeslimTarihi" ColumnName="TalepTeslimTarihi" />
+          <ScalarProperty Name="TalepTarihi" ColumnName="TalepTarihi" />
+          <ScalarProperty Name="MusteriTalepleriID" ColumnName="MusteriTalepleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriToplantilari">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.MusteriToplantilari">
+        <MappingFragment StoreEntitySet="MusteriToplantilari">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Saat" ColumnName="Saat" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="ToplantiTanimiID" ColumnName="ToplantiTanimiID" />
+          <ScalarProperty Name="MusteriToplantilariID" ColumnName="MusteriToplantilariID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OdemeSekli">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.OdemeSekli">
+        <MappingFragment StoreEntitySet="OdemeSekli">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="OdemeAdi" ColumnName="OdemeAdi" />
+          <ScalarProperty Name="OdemeSekilleriID" ColumnName="OdemeSekilleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonelGirisCikislar">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.PersonelGirisCikislar">
+        <MappingFragment StoreEntitySet="PersonelGirisCikislar">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="istenCikisTarihi" ColumnName="istenCikisTarihi" />
+          <ScalarProperty Name="iseBaslamaTarihi" ColumnName="iseBaslamaTarihi" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PersonelGirisCikislarID" ColumnName="PersonelGirisCikislarID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonelGunlukTakip">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.PersonelGunlukTakip">
+        <MappingFragment StoreEntitySet="PersonelGunlukTakip">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Cikis" ColumnName="Cikis" />
+          <ScalarProperty Name="Giris" ColumnName="Giris" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PeronselGunTakipleriID" ColumnName="PeronselGunTakipleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personelizinleri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Personelizinleri">
+        <MappingFragment StoreEntitySet="Personelizinleri">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="YillikizinHakki" ColumnName="YillikizinHakki" />
+          <ScalarProperty Name="izinBitisTarihi" ColumnName="izinBitisTarihi" />
+          <ScalarProperty Name="izinCikisTarihi" ColumnName="izinCikisTarihi" />
+          <ScalarProperty Name="PersonelizinleriID" ColumnName="PersonelizinleriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personeller">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Personeller">
+        <MappingFragment StoreEntitySet="Personeller">
+          <ScalarProperty Name="Resim" ColumnName="Resim" />
+          <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+          <ScalarProperty Name="DogumYeri" ColumnName="DogumYeri" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="MedeniHali" ColumnName="MedeniHali" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="PersonellerID" ColumnName="PersonellerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonellerinCalistigiDepartmanlar">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.PersonellerinCalistigiDepartmanlar">
+        <MappingFragment StoreEntitySet="PersonellerinCalistigiDepartmanlar">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="BitisTarihi" ColumnName="BitisTarihi" />
+          <ScalarProperty Name="BaslamaTarihi" ColumnName="BaslamaTarihi" />
+          <ScalarProperty Name="DerpartmanAdi" ColumnName="DerpartmanAdi" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PersonelCalismaDepartmaniID" ColumnName="PersonelCalismaDepartmaniID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonelMesaileri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.PersonelMesaileri">
+        <MappingFragment StoreEntitySet="PersonelMesaileri">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="MesaiBitis" ColumnName="MesaiBitis" />
+          <ScalarProperty Name="MesaiBaslangic" ColumnName="MesaiBaslangic" />
+          <ScalarProperty Name="PersonelMesaileriID" ColumnName="PersonelMesaileriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonelPrimler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.PersonelPrimler">
+        <MappingFragment StoreEntitySet="PersonelPrimler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="PrimGunSayisi" ColumnName="PrimGunSayisi" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PersonelPrimlerID" ColumnName="PersonelPrimlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonelToplantilari">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.PersonelToplantilari">
+        <MappingFragment StoreEntitySet="PersonelToplantilari">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Saat" ColumnName="Saat" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="ToplantiTanimiID" ColumnName="ToplantiTanimiID" />
+          <ScalarProperty Name="PersonelToplantilariID" ColumnName="PersonelToplantilariID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PesonelMaasBilgiler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.PesonelMaasBilgiler">
+        <MappingFragment StoreEntitySet="PesonelMaasBilgiler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="BitisTarihi" ColumnName="BitisTarihi" />
+          <ScalarProperty Name="BaslangicTarihi" ColumnName="BaslangicTarihi" />
+          <ScalarProperty Name="Maas" ColumnName="Maas" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PersonelMaaslarID" ColumnName="PersonelMaaslarID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Resimler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Resimler">
+        <MappingFragment StoreEntitySet="Resimler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="ResimAdi" ColumnName="ResimAdi" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="ResimAdres" ColumnName="ResimAdres" />
+          <ScalarProperty Name="ResimlerID" ColumnName="ResimlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Taksitler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Taksitler">
+        <MappingFragment StoreEntitySet="Taksitler">
+          <ScalarProperty Name="Tarih5" ColumnName="Tarih5" />
+          <ScalarProperty Name="Taksit5" ColumnName="Taksit5" />
+          <ScalarProperty Name="Tarih4" ColumnName="Tarih4" />
+          <ScalarProperty Name="Taksit4" ColumnName="Taksit4" />
+          <ScalarProperty Name="Tarih3" ColumnName="Tarih3" />
+          <ScalarProperty Name="Taksit3" ColumnName="Taksit3" />
+          <ScalarProperty Name="Tarih2" ColumnName="Tarih2" />
+          <ScalarProperty Name="Taksit2" ColumnName="Taksit2" />
+          <ScalarProperty Name="Tarih1" ColumnName="Tarih1" />
+          <ScalarProperty Name="Taksit1" ColumnName="Taksit1" />
+          <ScalarProperty Name="TaksitlerID" ColumnName="TaksitlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tedarikciler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Tedarikciler">
+        <MappingFragment StoreEntitySet="Tedarikciler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Durumu" ColumnName="Durumu" />
+          <ScalarProperty Name="TedarikciOlmaTarihi" ColumnName="TedarikciOlmaTarihi" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="PostaKodu" ColumnName="PostaKodu" />
+          <ScalarProperty Name="Sehir" ColumnName="Sehir" />
+          <ScalarProperty Name="Ulkesi" ColumnName="Ulkesi" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="TedarikciKontakUnvani" ColumnName="TedarikciKontakUnvani" />
+          <ScalarProperty Name="TedarikciKontakAdi" ColumnName="TedarikciKontakAdi" />
+          <ScalarProperty Name="TedarikciSirketAdi" ColumnName="TedarikciSirketAdi" />
+          <ScalarProperty Name="TedarikcilerID" ColumnName="TedarikcilerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TedarikEdilenUrunler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.TedarikEdilenUrunler">
+        <MappingFragment StoreEntitySet="TedarikEdilenUrunler">
+          <ScalarProperty Name="TedarikciID" ColumnName="TedarikciID" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="TedarikTarihi" ColumnName="TedarikTarihi" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="TedarikEdilenUrunlerID" ColumnName="TedarikEdilenUrunlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ToplantiTanimi">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.ToplantiTanimi">
+        <MappingFragment StoreEntitySet="ToplantiTanimi">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="OlusturmaTarihi" ColumnName="OlusturmaTarihi" />
+          <ScalarProperty Name="ToplantiTanimi1" ColumnName="ToplantiTanimi" />
+          <ScalarProperty Name="ToplantiTanimlarID" ColumnName="ToplantiTanimlarID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ulkeler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Ulkeler">
+        <MappingFragment StoreEntitySet="Ulkeler">
+          <ScalarProperty Name="TelefonKodu" ColumnName="TelefonKodu" />
+          <ScalarProperty Name="UlkeAdi" ColumnName="UlkeAdi" />
+          <ScalarProperty Name="UlkeKodu" ColumnName="UlkeKodu" />
+          <ScalarProperty Name="UlkeID" ColumnName="UlkeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UrunKategorileri">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.UrunKategorileri">
+        <MappingFragment StoreEntitySet="UrunKategorileri">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="UrunKategoriAdi" ColumnName="UrunKategoriAdi" />
+          <ScalarProperty Name="UrunKategorileriID" ColumnName="UrunKategorileriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Urunler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Urunler">
+        <MappingFragment StoreEntitySet="Urunler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="BirimFiyati" ColumnName="BirimFiyati" />
+          <ScalarProperty Name="BirimBasinaMiktar" ColumnName="BirimBasinaMiktar" />
+          <ScalarProperty Name="UrunKategoriID" ColumnName="UrunKategoriID" />
+          <ScalarProperty Name="UrunAdi" ColumnName="UrunAdi" />
+          <ScalarProperty Name="UrunlerID" ColumnName="UrunlerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UrunStoklari">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.UrunStoklari">
+        <MappingFragment StoreEntitySet="UrunStoklari">
+          <ScalarProperty Name="Kalan" ColumnName="Kalan" />
+          <ScalarProperty Name="StokMiktari" ColumnName="StokMiktari" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="UrunStoklariID" ColumnName="UrunStoklariID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Uyeler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Uyeler">
+        <MappingFragment StoreEntitySet="Uyeler">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="KayitTarihi" ColumnName="KayitTarihi" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="UyeAdi" ColumnName="UyeAdi" />
+          <ScalarProperty Name="YetkiID" ColumnName="YetkiID" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="UyelerID" ColumnName="UyelerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yetkiler">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Yetkiler">
+        <MappingFragment StoreEntitySet="Yetkiler">
+          <ScalarProperty Name="YetkiAdi" ColumnName="YetkiAdi" />
+          <ScalarProperty Name="YetkilerID" ColumnName="YetkilerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yonetim">
+      <EntityTypeMapping TypeName="OyunCRMDBModel.Yonetim">
+        <MappingFragment StoreEntitySet="Yonetim">
+          <ScalarProperty Name="YetkiAdi" ColumnName="YetkiAdi" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Durumu" ColumnName="Durumu" />
+          <ScalarProperty Name="BitisTarihi" ColumnName="BitisTarihi" />
+          <ScalarProperty Name="BaslangicTarihi" ColumnName="BaslangicTarihi" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="YonetimID" ColumnName="YonetimID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

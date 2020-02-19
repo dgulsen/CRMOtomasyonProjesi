@@ -1,0 +1,1404 @@
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\netstandard.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.AppContext.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Console.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.BusinessLogicLayer\obj\Debug\OyunCRM.BusinessLogicLayer.pdb

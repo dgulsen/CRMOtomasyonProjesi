@@ -1,0 +1,470 @@
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191202_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191203_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191204_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191205_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+C:\Users\becocan\Desktop\Yeni klasör\Yeni klasör\191206_OyunCRM\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\Berkan\191206_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+C:\Users\Oyun-4\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+C:\Users\Yavuz\Desktop\OyunCRM-birlestirmecalismasi\191209_1_OyunCRM\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+C:\Users\Devran\Desktop\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmBankalar.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmFirmalar.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriiletisim.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+C:\Users\PC\Desktop\191209_1_OyunCRM_Devran\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmBankalar.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmFirmalar.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriiletisim.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+C:\Users\rmysz\OneDrive\Masaüstü\191209_1_OyunCRM_Furkan\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmBankalar.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmFirmalar.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriiletisim.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\Öğrenci Test\191209_1_OyunCRM_Rumeysa\191209_1_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmGelirGider.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmBankalar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmFirmalar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmGelirGider.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriiletisim.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+E:\Oyun 4 sınıfı\7-CRM ProjesiYeni klasör\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUyeler.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe.config
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.exe
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\MFramework.Services.FakeData.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\netstandard.dll
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.BusinessLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.pdb
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\OyunCRM.DataBaseLogicLayer.dll.config
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csprojAssemblyReference.cache
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmBankalar.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmDepartmanlar.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmFirmalar.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmGelirGider.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMenu.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriiletisim.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmMusteriler.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmPersoneller.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmSiparisler.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmToplantilar.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUrunler.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmUyeler.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.Properties.Resources.resources
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.GenerateResource.cache
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.csproj.CopyComplete
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.exe
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.pdb
+C:\Users\Oyun-4\Desktop\191210_2_OyunCRM\OyunCRM.UserInterface\obj\Debug\OyunCRM.UserInterface.FrmLogin.resources
